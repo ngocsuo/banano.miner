@@ -41,6 +41,11 @@ Update trước khi cài :
 ```
 Sudo apt-get update
 ```
+Nên nâng cấp lên Ubuntu 18.04 ( bỏ qua nếu vps đã là bản mới nhất) :
+```
+sudo apt-get upgrade
+```
+
 Cài Nodejs :
 ```
 sudo apt-get install nodejs
