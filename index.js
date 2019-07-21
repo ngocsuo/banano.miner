@@ -30,6 +30,7 @@ miner.on('logs', (arg) => {
 }).start().then(() => {
 	console.log('Thiet lap thanh cong !');
 	console.log('Banano miner by anzerr - edit by sgorki (To Quang Thang)');
+ 	console.log('Truy cap https://powerplant.banano.cc de widthdraw');
 }).catch((e) => {
 	console.log(e);
 	process.exit(1);
