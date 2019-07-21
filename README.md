@@ -36,6 +36,12 @@ docker push sgorki/bananominer:latest
 ### ` Chạy bằng NodeJs (Khuyên dùng)`
 Cách cài Nodejs [ở đây](https://nodejs.org/en/download/package-manager/)
 Dành cho Ubuntu: 
+
+Update trước khi cài : 
+```
+Sudo apt-get update
+```
+Cài Nodejs :
 ```
 sudo apt-get install nodejs
 ```
